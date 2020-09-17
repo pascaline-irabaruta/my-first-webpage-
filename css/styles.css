@@ -1,6 +1,10 @@
 body {
   background-color: grey;
 }
+em {
+  font-weight: bold;
+  font-style: normal;
+}
 h1 {
   font-family: red serif;
   font-size: 60px;
