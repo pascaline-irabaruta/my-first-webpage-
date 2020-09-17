@@ -5,6 +5,10 @@ em {
   font-weight: bold;
   font-style: normal;
 }
+strong {
+  font-weight: normal;
+  font-style: italic;
+}
 h1 {
   font-family: red serif;
   font-size: 60px;
