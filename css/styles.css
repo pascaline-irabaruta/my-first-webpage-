@@ -13,6 +13,7 @@ h2 {
   text-align: center;
 }
 p {
+  line-height: 20px;
   color:silver;
   font-family: sans-serif;
 }
